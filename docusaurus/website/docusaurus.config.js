@@ -51,7 +51,7 @@ const siteConfig = {
         },
         { 
           to: 'docs/lectures', 
-          label: 'Lectures', 
+          label: 'Schedule', 
           position: 'left' 
         },
         { 
