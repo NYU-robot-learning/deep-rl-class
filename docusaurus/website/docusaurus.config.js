@@ -94,16 +94,7 @@ const siteConfig = {
           items: [
             {
               label: 'Schedule',
-              to: 'docs/getting-started',
-            },
-            {
-              label: 'PyTorch Documentation',
-              href: 'https://pytorch.org/docs/stable/index.html',
-            },
-            {
-              label: 'PyTorch forums',
-              href:
-                'https://discuss.pytorch.org/',
+              to: 'docs/lectures',
             },
           ],
         },
@@ -115,12 +106,8 @@ const siteConfig = {
               href: 'https://campuswire.com'
             },
             {
-              label: 'Office hours',
+              label: 'Staff information',
               to: 'docs/staff'
-            },
-            {
-              label: 'Staff emails',
-              to: 'docs/staff',
             },
             // {
             //   label: 'GitHub Discussions',
