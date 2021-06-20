@@ -21,36 +21,36 @@ Please contact Rosemary Amico <amico@cs.nyu.edu>.
 
 ## Logistical Overview
 ### Lecture
-5.10pm-7.00pm on Fridays at CIWW 317.
-* Each week consists of a lecture
+5.10pm-7.00pm on Fridays at CIWW 101.
+* Each week consists of a lecture.
 * Lectures will be held in person.
-* Classes will not be recorded, but previous year's recorded lectures may be available. More details to follow.
+* Will the class be recorded?: TBD.
 
 ### Grading
-1. Homeworks (40%)
+1. Homeworks (60%)
 2. Discussions (10%)
-3. Final Project (50%)
+3. Final Project (30%)
 
 ### Assignments
 * Assignments will use Python 3 and PyTorch; we will provide you a conda environment to install all dependencies.
 * To complete the assignemnt, you would need GPU access. Use [Greene](https://sites.google.com/a/nyu.edu/nyu-hpc/systems/greene-cluster) if you need access to one.
-* We strongly recommended you to use Python for the project as well.
+* We strongly recommended using Python for the project as well.
 
 ### Final Project
 * Project proposals (1 page) will be due on 10/9.
 * Maximum (and recommended) team size is 2.
-* Final presentations of all projects will take place on 12/11.
+* Final presentations of all projects will take place on 12/10/2021.
 
 ### Course Textbook
-We highly recommend the following e-book: **Sutton and Barto. _[Reinforcement Learning.](http://incompleteideas.net/book/RLbook2020.pdf)_**
+We highly recommend the following e-book: **Sutton and Barto. _[Reinforcement Learning.](http://incompleteideas.net/book/RLbook2020.pdf)_**. Reading materials for each class is posted in the [schedule](lectures).
 
 ### Course Staff
 * Instructor: [Lerrel Pinto](https://www.lerrelpinto.com/)
 * Assistant: [Mahi Shafiullah](https://mahis.life)
 
 ### Office Hours
-* Lerrel:
-* Mahi:
+* Lerrel: TBD
+* Mahi: TBD
 
 ## Remarks
 * A student in this course is expected to act professionally. Please also follow the GSAS regulations on academic integrity found here: http://gsas.nyu.edu/page/academic.integrity
