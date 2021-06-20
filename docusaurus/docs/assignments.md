@@ -3,25 +3,31 @@ id: assignments
 title: Assignments
 ---
 
-There will be five homework assignments. They must be submitted via NYU Classes and there will be no extensions. All the answers must be typeset using either LaTeX or Microsoft Word and submitted as a pdf file. Handwritten answers will not be accepted. Each homework may include one or more programming assignments. 
+There will be six homework assignments. They must be submitted online (platform TBD) and there will be no extensions. All the answers must be typeset using either LaTeX or Microsoft Word and submitted as a pdf file. Handwritten answers will not be accepted. Each homework will include one or more programming assignments. Assignment 0 is solely to check pre-requisites. No grade will be assigned to this.
 
-* Assignment 0: Quiz covering pre-requisite / basic concepts
-    * Released on Sept 4
-    * Due on Sept 18
-* Assignment 1: Behavior cloning - supervised control
-    * Released on Sept 21
-    * Due on Oct 5
-* Assignment 2: Playing Atari using DQN
-    * Released on Oct 2 
-    * Due on Oct 16
-* Assignment 3: Continuous control of simulated robots
-    * Released on Oct 16
-    * Due on Oct 30
-* Assignment 4: Domain randomization for RL
-    * Released on Oct 30
-    * Due on Nov 13
+* Assignment 0: Quiz covering pre-requisite / basic concepts.
+    * Released on Sept 1
+    * Due on Sept 10
+* Assignment 1: Imitation via Supervision.
+    * Released on Sept 10
+    * Due on Sept 17
+* Assignment 2: Playing Atari using Deep Q Learning.
+    * Released on Sept 17 
+    * Due on Oct 1
+* Assignment 3: Continuous Control of Simulated Robots with Policy Gradients.
+    * Released on Oct 1
+    * Due on Oct 15
+* Assignment 4: Exploration with Bandits.
+    * Released on Oct 15
+    * Due on Oct 22
+* Assignment 5: Adaptive Control and Optimization.
+    * Released on Oct 22
+    * Due on Oct 29
+* Assignment 6: Learning General Policies.
+    * Released on Oct 29
+    * Due on Nov 12
 
-## Assignment Environment
+## Assignment Environment and Installation Instructions
 TBD
 
 ## Collaboration Policy
@@ -30,4 +36,4 @@ Collaboration is encouraged, but the work you submit for assignments is expected
 ## Final Project
 * Project proposals (1 page) will be due on 10/9.
 * Maximum (and recommended) team size is 2.
-* Final presentations of all projects will take place on 12/11.
+* Final presentations of all projects will take place on 12/10.
