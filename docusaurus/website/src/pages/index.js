@@ -85,7 +85,7 @@ function Home() {
           <div className="row">
             <div className="col col--4">
               <h3>
-                Lerrel Pinto
+                <a href="https://www.lerrelpinto.com/">Lerrel Pinto</a>
               </h3>
               <img
                 className={styles.featureImage}
