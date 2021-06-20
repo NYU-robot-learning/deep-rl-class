@@ -70,8 +70,8 @@ const siteConfig = {
           position: 'left' 
         },
         { 
-          to: 'docs/previous-offerings', 
-          label: 'Previous Offerings', 
+          to: 'docs/suggested-projects', 
+          label: 'Suggested Projects', 
           position: 'left' 
         },
         // {
