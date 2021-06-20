@@ -59,21 +59,21 @@ const siteConfig = {
           label: 'Assignments', 
           position: 'left' 
         },
-        { 
-          to: 'docs/staff', 
-          label: 'Staff', 
-          position: 'left' 
-        },
-        { 
-          to: 'docs/contact', 
-          label: 'Contact', 
-          position: 'left' 
-        },
-        { 
-          to: 'docs/suggested-projects', 
-          label: 'Suggested Projects', 
-          position: 'left' 
-        },
+//         { 
+//           to: 'docs/staff', 
+//           label: 'Staff', 
+//           position: 'left' 
+//         },
+//         { 
+//           to: 'docs/contact', 
+//           label: 'Contact', 
+//           position: 'left' 
+//         },
+//         { 
+//           to: 'docs/suggested-projects', 
+//           label: 'Suggested Projects', 
+//           position: 'left' 
+//         },
         // {
         //   href: 'https://reactjs.org/community/support.html',
         //   label: 'Help',
