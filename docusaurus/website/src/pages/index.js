@@ -43,21 +43,21 @@ function Home() {
         <div className="container">
           <video
             className={clsx(styles.heroBannerLogo, 'margin-vert--md')}
-            autostart autoPlay loop
+            autostart autoPlay loop muted
             alt="Car Racing Run OpenAI Gym"
             src={useBaseUrl('img/racecar.mp4')}
             type="video/mp4" 
           />
           <video
             className={clsx(styles.heroBannerLogo, 'margin-vert--md')}
-            autostart autoPlay loop
+            autostart autoPlay loop muted
             alt="Humanoid v2 Run OpenAI Gym"
             src={useBaseUrl('img/humanoid.mp4')}
             type="video/mp4" 
           />
           <video
             className={clsx(styles.heroBannerLogo, 'margin-vert--md')}
-            autostart autoPlay loop
+            autostart autoPlay loop muted
             alt="FetchReach OpenAI Gym"
             src={useBaseUrl('img/fetch.mp4')}
             type="video/mp4" 
