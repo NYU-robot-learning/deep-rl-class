@@ -8,8 +8,8 @@
 const siteConfig = {
   title: 'Deep Reinforcement Learning',
   tagline: 'CSCI-GA 3033-090, Fall 2021',
-  url: 'https://create-react-app.dev',
-  baseUrl: '/',
+  url: 'https://nyu-robot-learning.github.io/',
+  baseUrl: '/deep-rl-class/',
   projectName: 'nyu-deep-rl',
   organizationName: 'new-york-university',
   favicon: 'img/favicon/favicon.ico',
