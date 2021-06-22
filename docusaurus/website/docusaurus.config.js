@@ -34,15 +34,15 @@ const siteConfig = {
   themeConfig: {
     image: 'img/logo-og.png',
     algolia: {
-      apiKey: '3be60f4f8ffc24c75da84857d6323791',
-      indexName: 'create-react-app',
+      apiKey: '33aa964047ccff01f240ab0259653594',
+      indexName: 'nyu-deep-rl',
     },
     navbar: {
       title: 'Deep Reinforcement Learning',
-      logo: {
-        alt: 'NYU Courant LOGO',
-        src: 'img/logo.svg',
-      },
+      // logo: {
+      //   alt: 'NYU Courant LOGO',
+      //   src: 'img/logo.svg',
+      // },
       items: [
         { 
           to: 'docs/logistics', 
@@ -107,7 +107,7 @@ const siteConfig = {
             },
             {
               label: 'Staff information',
-              to: 'docs/staff'
+              to: 'docs/logistics#course-staff'
             },
             // {
             //   label: 'GitHub Discussions',

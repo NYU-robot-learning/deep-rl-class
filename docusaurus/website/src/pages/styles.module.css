@@ -13,8 +13,8 @@
 }
 
 .heroBannerLogo {
-  max-width: 170px;
-  max-height: 170px;
+  /* max-width: 170px; */
+  max-height: 250px;
 }
 
 @media screen and (max-width: 966px) {

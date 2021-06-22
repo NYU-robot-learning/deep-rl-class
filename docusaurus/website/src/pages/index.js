@@ -28,11 +28,6 @@ const features = [
     content:
       'Please contact Rosemary Amico (amico at cs.nyu.edu)',
   },
-  // {
-  //   title: 'No Lock-In',
-  //   content:
-  //     'Under the hood, we use webpack, Babel, ESLint, and other amazing projects to power your app. If you ever want an advanced configuration, you can ”eject” from Create React App and edit their config files directly.',
-  // },
 ];
 
 function Home() {
@@ -46,10 +41,26 @@ function Home() {
     >
       <div className={clsx('hero hero--dark', styles.heroBanner)}>
         <div className="container">
-          <img
+          <video
             className={clsx(styles.heroBannerLogo, 'margin-vert--md')}
-            alt="Create React App logo"
-            src={useBaseUrl('img/logo.svg')}
+            autostart autoPlay loop
+            alt="Car Racing Run OpenAI Gym"
+            src={useBaseUrl('img/racecar.mp4')}
+            type="video/mp4" 
+          />
+          <video
+            className={clsx(styles.heroBannerLogo, 'margin-vert--md')}
+            autostart autoPlay loop
+            alt="Humanoid v2 Run OpenAI Gym"
+            src={useBaseUrl('img/humanoid.mp4')}
+            type="video/mp4" 
+          />
+          <video
+            className={clsx(styles.heroBannerLogo, 'margin-vert--md')}
+            autostart autoPlay loop
+            alt="FetchReach OpenAI Gym"
+            src={useBaseUrl('img/fetch.mp4')}
+            type="video/mp4" 
           />
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
@@ -83,28 +94,24 @@ function Home() {
             Staff
           </h2>
           <div className="row">
-            <div className="col col--4">
+            <div className="col col--3">
               <h3>
                 <a href="https://www.lerrelpinto.com/">Lerrel Pinto</a>
               </h3>
               <img
                 className={styles.featureImage}
                 alt="Lerrel Pinto"
-                src={
-                  'https://www.lerrelpinto.com/authors/admin/avatar_hu4fd532323075888c71e9261145e3a1d5_40812_200x200_fill_q75_lanczos_center.jpg'
-                }
+                src={useBaseUrl('img/lerrel.jpeg')}
               />
             </div>
-            <div className="col col--4">
-              <h3>
-                Mahi Shafiullah
+            <div className="col col--3 col--offset-3">
+            <h3>
+                <a href="http://mahis.life/">Mahi Shafiullah</a>
               </h3>
               <img
                 className={styles.featureImage}
                 alt="Mahi Shafiullah"
-                src={
-                  'https://camo.githubusercontent.com/29765c4a32f03bd01d44edef1cd674225e3c906b/68747470733a2f2f63646e2e7261776769742e636f6d2f66616365626f6f6b2f6372656174652d72656163742d6170702f323762343261632f73637265656e636173742e737667'
-                }
+                src={useBaseUrl('img/mahi.jpeg')}
               />
             </div>
           </div>

@@ -1,4 +1,0 @@
----
-id: staff
-title: Staff
----

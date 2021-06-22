@@ -15,4 +15,4 @@ jobs:
         NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
         NETLIFY_BASE: docusaurus/website
         NETLIFY_CMD: docusaurus build
-        NETLIFY_DIR: docusaurus/website/build
+        NETLIFY_DIR: build
