@@ -20,9 +20,9 @@ const siteConfig = {
         docs: {
           path: '../docs',
           sidebarPath: require.resolve('./sidebars.json'),
-          editUrl:
-            'https://github.com/facebook/create-react-app/edit/master/docusaurus/website',
-          showLastUpdateAuthor: true,
+          // editUrl:
+          //   'https://github.com/facebook/create-react-app/edit/master/docusaurus/website',
+          // showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
         theme: {
@@ -33,10 +33,6 @@ const siteConfig = {
   ],
   themeConfig: {
     image: 'img/logo-og.png',
-    algolia: {
-      apiKey: '33aa964047ccff01f240ab0259653594',
-      indexName: 'nyu-deep-rl',
-    },
     navbar: {
       title: 'Deep Reinforcement Learning',
       // logo: {
@@ -59,29 +55,15 @@ const siteConfig = {
           label: 'Assignments', 
           position: 'left' 
         },
-//         { 
-//           to: 'docs/staff', 
-//           label: 'Staff', 
-//           position: 'left' 
-//         },
-//         { 
-//           to: 'docs/contact', 
-//           label: 'Contact', 
-//           position: 'left' 
-//         },
-//         { 
-//           to: 'docs/suggested-projects', 
-//           label: 'Suggested Projects', 
-//           position: 'left' 
-//         },
+
+        // { 
+        //   to: 'docs/suggested-projects', 
+        //   label: 'Suggested Projects', 
+        //   position: 'left' 
+        // },
         // {
         //   href: 'https://reactjs.org/community/support.html',
         //   label: 'Help',
-        //   position: 'left',
-        // },
-        // {
-        //   href: 'https://www.github.com/facebook/create-react-app',
-        //   label: 'GitHub',
         //   position: 'left',
         // },
       ],
@@ -109,30 +91,8 @@ const siteConfig = {
               label: 'Staff information',
               to: 'docs/logistics#course-staff'
             },
-            // {
-            //   label: 'GitHub Discussions',
-            //   href: 'https://github.com/facebook/create-react-app/discussions',
-            // },
-            // {
-            //   label: 'Twitter',
-            //   href: 'https://twitter.com/reactjs',
-            // },
-            // {
-            //   label: 'Contributor Covenant',
-            //   href:
-            //     'https://www.contributor-covenant.org/version/1/4/code-of-conduct',
-            // },
           ],
         },
-        // {
-        //   title: 'Social',
-        //   items: [
-        //     {
-        //       label: 'GitHub',
-        //       href: 'https://www.github.com/facebook/create-react-app',
-        //     },
-        //   ],
-        // },
       ],
       // logo: {
       //   alt: 'Facebook Open Source Logo',
