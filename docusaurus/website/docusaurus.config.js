@@ -85,7 +85,7 @@ const siteConfig = {
           items: [
             {
               label: 'Class Campuswire',
-              href: 'https://campuswire.com'
+              href: 'https://campuswire.com/c/G7204E992/'
             },
             {
               label: 'Staff information',

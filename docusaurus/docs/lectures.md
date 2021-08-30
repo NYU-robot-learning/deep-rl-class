@@ -3,9 +3,9 @@ id: lectures
 title: Course Schedule
 ---
  
-| wk | Lecture | Slides | Reading material |
+| wk | Lecture | Links | Reading material |
 |---|---|---|---|
-| 9/1 | HW-0 Release | | Fundamentals of Linear Algebra and Deep Learning|
+| 9/1 | HW-0 Release | [Campuswire](https://campuswire.com/c/G7204E992/feed/2) | Fundamentals of Linear Algebra and Deep Learning|
 | 9/3 | Part 1: Course overview <br />Part 2: Supervised learning for control | | <br />1\. [A framework for behavioural cloning, Bain and Sommut, 1999.](http://www.cse.unsw.edu.au/~claude/papers/MI15.pdf)<br />2\. [A reduction of imitation learning and structured prediction to no-regret online learning, Ross et al., 2011.](http://proceedings.mlr.press/v15/ross11a/ross11a.pdf) |
 | 9/10 | Part 1: Introduction to RL<br />Part 2: Value functions | |Part 1: Chapter 1 of [RL book](http://incompleteideas.net/book/RLbook2020.pdf).<br />Part 2: Chapter 3 of [RL book](http://incompleteideas.net/book/RLbook2020.pdf). |
 | 9/10 | HW-0 Due | | |

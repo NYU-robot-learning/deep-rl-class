@@ -21,14 +21,14 @@ Please contact Rosemary Amico <amico@cs.nyu.edu>.
 
 ## Logistical Overview
 ### Lecture
-5.10pm-7.00pm on Fridays at CIWW 101.
+5.10pm-7.00pm on Fridays at 60FA 110 ([Class calendar](https://calendar.google.com/calendar/u/0?cid=Y19kYmFlNzlzYjM2cWplN2UxNWpwaDM0aWhpY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)).
 * Each week consists of a lecture.
 * Lectures will be held in person.
-* Will the class be recorded?: TBD.
+* The class will be recorded, we will post the link to the recorded lectures to the [class campuswire](https://campuswire.com/c/G7204E992/).
 
 ### Grading
-1. Homeworks (60%)
-2. Discussions (10%)
+1. [Homeworks](assignments) (60%)
+2. Discussions, both in class and in [campuswire](https://campuswire.com/c/G7204E992/) (10%)
 3. Final Project (30%)
 
 ### Assignments
