@@ -20,14 +20,13 @@ title: Course Schedule
 | 10/8  | Exploration in RL  |  | 1\. [Exploration strategies in deep RL, blog by Lilian Weng, 2020](https://lilianweng.github.io/lil-log/2020/06/07/exploration-strategies-in-deep-reinforcement-learning.html) <br /> 2\. [Intrinsic Motivation Systems for Autonomous Mental Development, Oudeyer et al. 2007.](http://www.pyoudeyer.com/ims.pdf) <br /> 3\. [Curiosity-driven Exploration by Self-supervised Prediction, Pathak et al. 2017.](https://arxiv.org/pdf/1705.05363.pdf)  |
 | 10/9 | Project Proposals Due | | |
 | 10/15  | Generalization in RL  |  | 1\. [Quantifying Generalization in RL, blog by OpenAI 2018](https://openai.com/blog/quantifying-generalization-in-reinforcement-learning)<br /> 2\. [Supersizing Self-supervision: Learning to Grasp from 50K Tries and 700 Robot Hours, Pinto and Gupta 2016](https://arxiv.org/pdf/1509.06825.pdf) <br />3\. [Visual Imitation Made Easy, Young et al. 2020](https://arxiv.org/pdf/2008.04899.pdf)  |
-| 10/15 | HW-3 Due | | |
-| 10/15 | HW-4 Release | | Exploration with Bandits.|
+| 10/22 | HW-3 Due | | |
+| 10/22 | HW-4 Release | | Exploration with Bandits.|
 | 10/22  | Imitation Learning  |  | 1\. [Apprenticeship Learning via Inverse Reinforcement Learning, Abbeel and Ng 2004](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf) <br />2\. [Generative Adversarial Imitation Learning, Ho et al. 2016](https://arxiv.org/pdf/1606.03476.pdf) <br />3\. [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations, Rajeswaran et al. 2018](https://arxiv.org/pdf/1709.10087.pdf)  |
-| 10/22 | HW-4 Due | | |
-| 10/22 | HW-5 Release | | Adaptive Control and Optimization.|
+| 10/29 | HW-4 Due | | |
+| 10/29 | HW-5 Release | | Adaptive Control and Optimization.|
 | 10/29  | Control and planning  |  | 1\. [Iterative Linear Quadratic Regulator Design for Nonlinear Biological Movement Systems, Li and Todorov 2004](https://homes.cs.washington.edu/~todorov/papers/LiICINCO04.pdf) <br />2\. [Benchmarking Model-Based Reinforcement Learning, Wang et al. 2019](https://arxiv.org/pdf/1907.02057.pdf)  |
-| 10/29 | HW-5 Due | | |
-| 10/29 | HW-6 Release | | Learning General Policies.|
+| 11/5 | HW-5 Due | | |
 | 11/5  | TBD -- [John Langford](https://www.microsoft.com/en-us/research/people/jcl/)  |  | Guest Lecture |
 | 11/12  | Multi-Agent Learning -- [Noam Brown](https://www.cs.cmu.edu/~noamb/)  |  | Guest Lecture |
 | 11/12  | HW-6 Due | | |
