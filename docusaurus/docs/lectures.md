@@ -24,12 +24,9 @@ title: Course Schedule
 | 10/22 | HW-4 Release | | Exploration with Bandits.|
 | 10/22  | Imitation Learning  |  | 1\. [Apprenticeship Learning via Inverse Reinforcement Learning, Abbeel and Ng 2004](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf) <br />2\. [Generative Adversarial Imitation Learning, Ho et al. 2016](https://arxiv.org/pdf/1606.03476.pdf) <br />3\. [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations, Rajeswaran et al. 2018](https://arxiv.org/pdf/1709.10087.pdf)  |
 | 10/29 | HW-4 Due | | |
-| 10/29 | HW-5 Release | | Adaptive Control and Optimization.|
 | 10/29  | Control and planning  |  | 1\. [Iterative Linear Quadratic Regulator Design for Nonlinear Biological Movement Systems, Li and Todorov 2004](https://homes.cs.washington.edu/~todorov/papers/LiICINCO04.pdf) <br />2\. [Benchmarking Model-Based Reinforcement Learning, Wang et al. 2019](https://arxiv.org/pdf/1907.02057.pdf)  |
-| 11/5 | HW-5 Due | | |
-| 11/5  | TBD -- [John Langford](https://www.microsoft.com/en-us/research/people/jcl/)  |  | Guest Lecture |
+| 11/5  | Latent State Discovery -- [John Langford](https://www.microsoft.com/en-us/research/people/jcl/)  |  | Guest Lecture |
 | 11/12  | Multi-Agent Learning -- [Noam Brown](https://www.cs.cmu.edu/~noamb/)  |  | Guest Lecture |
-| 11/12  | HW-6 Due | | |
 | 11/19  | Unsupervised Reinforcement Learning -- [Denis Yarats](https://cs.nyu.edu/~dy1042/)  |  | Guest Lecture |
 | 12/3  | Current frontiers  |  |  |
 | 12/10  | Final Project Presentations and Writeups |  |  |
